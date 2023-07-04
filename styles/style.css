@@ -1,0 +1,15 @@
+p{
+  background-color: aquamarine;
+}
+h3{
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+}
+.div{
+  padding: 5px;
+  margin: 10px;
+  background-color: aqua;
+  border: 2px solid brown;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px;
+}
